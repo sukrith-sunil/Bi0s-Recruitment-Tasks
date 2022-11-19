@@ -1,4 +1,7 @@
 # **IQ Signal**
+
+Quadrature signals, also called IQ signals, IQ data or IQ samples, are often used in RF applications as WiFi. They form the basis of complex RF signal modulation and demodulation, both in hardware and in software, as well as in complex signal analysis.
+
 The term “I/Q” is an abbreviation for “in-phase” and “quadrature.”
 
 They form the basis of complex RF signal modulation and demodulation, both in hardware and in software, as well as in complex signal analysis, “quadrature” applied to both a signal and the modulation/demodulation techniques associated with that signal.
